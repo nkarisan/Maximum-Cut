@@ -1,9 +1,8 @@
 # Maximum-Cut
 The code has been implemented in Matlab R2013a.
 
-The program starts from "main.m".
-At the begining of main, parameters "n" and "epsilon" are 
-initialized, which can be set manually in the file.
+The program starts from "main.m", in which parameters "n" and "epsilon" are 
+initialized in the begining, and can be set manually.
 
 First, Dual scaling algorithm will be run on a randomly generated graph (using the given input size). 
 In the next step, the user can choose to run the 
