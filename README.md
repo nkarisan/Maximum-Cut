@@ -4,6 +4,7 @@ The code has been implemented in Matlab R2013a.
 The program starts from "main.m", in which parameters "n" and "epsilon" are 
 initialized in the begining, and can be set manually.
 
+## Flow of the program
 First, Dual scaling algorithm will be run on a randomly generated graph (using the given input size). 
 In the next step, the user can choose to run the 
 bruteforce on the graph. Optimum values for each 
