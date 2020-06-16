@@ -7,7 +7,7 @@ initialized in the begining, and can be set manually.
 #### Flow of the program
 First, Dual scaling algorithm will be run on a randomly generated graph (using the given input size). 
 In the next step, the user can choose to run the 
-bruteforce on the graph. Optimum values for each 
+bruteforce algorithm on the graph. Optimum values for each 
 method will be printed in the console.
 
 Finally, a plot will be created which demonstrates internal
